@@ -8,7 +8,7 @@ Toolkit Translate is a translation application designed to demonstrate effective
 
 <h2> Video gif</h2>
 
-![](./public/images/translate.gif.gif)
+![](./public/images/translate.gif)
 
 <h2>ScreenShoot</h2>
 
